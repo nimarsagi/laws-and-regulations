@@ -1,0 +1,18 @@
+# 03 — High-risk AI systems
+
+For PRDs where AI decides, scores, ranks or screens people, or is a safety part of a regulated product.
+
+## Is it high-risk?
+1. **Listed use?** [Annex III](../ai-act/annexes/annex-03.md): biometrics; critical infrastructure; education (admission, grading, proctoring); employment (hiring, promotion, task allocation, monitoring); essential services (public benefits, credit scoring, life and health insurance pricing, emergency triage); police; migration; courts and elections. Classification rule: [Art 6(2)](../ai-act/ch-03_high-risk-ai-systems/art-006.md).
+2. **Safety part of a regulated product?** [Art 6(1)](../ai-act/ch-03_high-risk-ai-systems/art-006.md) with [Annex I](../ai-act/annexes/annex-01.md). New in 2026: 6(1a)–(1c) narrow what counts as a safety component.
+3. **Filtered out?** An Annex III system isn't high-risk if it does only a narrow procedural or preparatory task and doesn't sway the decision: [Art 6(3)](../ai-act/ch-03_high-risk-ai-systems/art-006.md). Profiling people always keeps it high-risk. A provider relying on this must write down why and register: [Art 6(4)](../ai-act/ch-03_high-risk-ai-systems/art-006.md), [Art 49(2)](../ai-act/ch-03_high-risk-ai-systems/art-049.md).
+
+## If high-risk, and the PRD's builder is the provider
+Does the PRD plan for: risk management [Art 9](../ai-act/ch-03_high-risk-ai-systems/art-009.md) · data quality and bias checks [Art 10](../ai-act/ch-03_high-risk-ai-systems/art-010.md), [Art 4a](../ai-act/ch-01_general-provisions/art-004a.md) · technical documentation [Art 11](../ai-act/ch-03_high-risk-ai-systems/art-011.md), [Annex IV](../ai-act/annexes/annex-04.md) · logging [Art 12](../ai-act/ch-03_high-risk-ai-systems/art-012.md) · instructions for deployers [Art 13](../ai-act/ch-03_high-risk-ai-systems/art-013.md) · human oversight [Art 14](../ai-act/ch-03_high-risk-ai-systems/art-014.md) · accuracy, robustness, security [Art 15](../ai-act/ch-03_high-risk-ai-systems/art-015.md) · the provider's list [Art 16](../ai-act/ch-03_high-risk-ai-systems/art-016.md), quality management [Art 17](../ai-act/ch-03_high-risk-ai-systems/art-017.md) · conformity assessment and registration [Art 43](../ai-act/ch-03_high-risk-ai-systems/art-043.md), [Art 49](../ai-act/ch-03_high-risk-ai-systems/art-049.md) · monitoring after release and incident reports [Art 72](../ai-act/ch-09_monitoring-enforcement-remedies/art-072.md), [Art 73](../ai-act/ch-09_monitoring-enforcement-remedies/art-073.md)?
+
+## If high-risk, and the PRD's builder is the deployer
+[Art 26](../ai-act/ch-03_high-risk-ai-systems/art-026.md): use per the instructions, named people overseeing, relevant input data, logs kept, workers told before workplace use (26(7)), people told when it helps decide about them (26(11)). Fundamental rights impact assessment for public bodies, public-service providers, credit scoring and insurance pricing: [Art 27](../ai-act/ch-03_high-risk-ai-systems/art-027.md) (new in 2026: may reuse the GDPR assessment). Right to an explanation: [08](08_automated-decisions.md).
+
+## Watch
+- High-risk rules apply from 2 Dec 2027 (Annex III) and 2 Aug 2028 (Annex I): [timeline.md](timeline.md). A PRD built now that will still run then should plan for them. Systems already on the market are covered only after significant design changes: [Art 111(2)](../ai-act/ch-13_final-provisions/art-111.md).
+- Smaller firms get lighter documentation and quality-management duties: [Art 11(1)](../ai-act/ch-03_high-risk-ai-systems/art-011.md), [Art 17(2)](../ai-act/ch-03_high-risk-ai-systems/art-017.md), [Art 63](../ai-act/ch-06_innovation-support/art-063.md).
