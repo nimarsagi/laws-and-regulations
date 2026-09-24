@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex VII"
+aliases: ["AI Act Annex VII"]
 title: "Conformity based on an assessment of the quality management system and an assessment of the technical documentation"
 tokens: 2004
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3251-3327"

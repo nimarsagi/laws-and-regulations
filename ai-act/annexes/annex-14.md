@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex XIV"
+aliases: ["AI Act Annex XIV"]
 title: "The list of codes, categories and corresponding types of AI systems for the purpose of the notification procedure referred to in Article 30 specifying the scope of the designation as notified bodies"
 changed_2026: "all"
 tokens: 818

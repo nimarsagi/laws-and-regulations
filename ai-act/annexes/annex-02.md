@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex II"
+aliases: ["AI Act Annex II"]
 title: "List of criminal offences referred to in Article 5(1), first subparagraph, point (h)(iii)"
 tokens: 242
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3051-3085"

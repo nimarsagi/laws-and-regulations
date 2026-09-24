@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex XI"
+aliases: ["AI Act Annex XI"]
 title: "Technical documentation referred to in Article 53(1), point (a) — technical documentation for providers of general-purpose AI models"
 tokens: 790
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3465-3509"

@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Art 75a"
+aliases: ["AI Act Art 75a"]
 title: "Supervisory and enforcement powers of the AI Office"
 chapter: "IX — Post-market monitoring, information sharing and market surveillance"
 section: "3 — Enforcement"

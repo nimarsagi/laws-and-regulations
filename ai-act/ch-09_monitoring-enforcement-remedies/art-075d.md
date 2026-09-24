@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Art 75d"
+aliases: ["AI Act Art 75d"]
 title: "Safeguards and further specification"
 chapter: "IX — Post-market monitoring, information sharing and market surveillance"
 section: "3 — Enforcement"

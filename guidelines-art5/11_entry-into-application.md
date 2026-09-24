@@ -1,5 +1,6 @@
 ---
 cite: "Art 5 Guidelines §11"
+aliases: ["Art 5 Guidelines §11"]
 title: "Entry into application"
 covers: "when Art 5 applies"
 paras: "429–431"

@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex XII"
+aliases: ["AI Act Annex XII"]
 title: "Transparency information referred to in Article 53(1), point (b) — technical documentation for providers of general-purpose AI models to downstream providers that integrate the model into their AI system"
 tokens: 402
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3513-3541"

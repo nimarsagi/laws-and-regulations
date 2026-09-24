@@ -1,5 +1,6 @@
 ---
 cite: "Art 5 Guidelines §12"
+aliases: ["Art 5 Guidelines §12"]
 title: "Review and update of the Commission guidelines"
 paras: "432–433"
 tokens: 322

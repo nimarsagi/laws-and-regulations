@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex X"
+aliases: ["AI Act Annex X"]
 title: "Union legislative acts on large-scale IT systems in the area of Freedom, Security and Justice"
 tokens: 1338
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3421-3461"

@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex III"
+aliases: ["AI Act Annex III"]
 title: "High-risk AI systems referred to in Article 6(2)"
 tokens: 1879
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3089-3157"

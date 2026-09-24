@@ -461,7 +461,8 @@ def body_text(u, lines):
 
 def unit_fields(u, lines, areas):
     first, last = min(u.body) + 1, max(u.body) + 1
-    f = {"cite": u.cite, "title": u.title, "chapter": u.chapter, "section": u.section}
+    # aliases: lets Obsidian find a file by its citation ("GDPR Art 6"), since file names repeat across laws
+    f = {"cite": u.cite, "aliases": [u.cite], "title": u.title, "chapter": u.chapter, "section": u.section}
     if u.law == "guidelines":
         f["covers"] = GL_COVERS.get(u.meta["top"], "")
         f["paras"] = u.meta.get("paras", "")

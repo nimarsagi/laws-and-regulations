@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Art 75c"
+aliases: ["AI Act Art 75c"]
 title: "Non-compliance, fines and periodic penalty payments"
 chapter: "IX — Post-market monitoring, information sharing and market surveillance"
 section: "3 — Enforcement"

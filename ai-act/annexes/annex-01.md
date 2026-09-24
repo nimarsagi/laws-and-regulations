@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex I"
+aliases: ["AI Act Annex I"]
 title: "List of Union harmonisation legislation"
 changed_2026: "part"
 tokens: 1516

@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex XIII"
+aliases: ["AI Act Annex XIII"]
 title: "Criteria for the designation of general-purpose AI models with systemic risk referred to in Article 51"
 tokens: 386
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3545-3561"

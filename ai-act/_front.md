@@ -1,5 +1,6 @@
 ---
 cite: "AI Act, title page"
+aliases: ["AI Act, title page"]
 title: "Title and amendment list"
 tokens: 416
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 1-37"

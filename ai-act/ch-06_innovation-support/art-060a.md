@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Art 60a"
+aliases: ["AI Act Art 60a"]
 title: "Testing of high-risk AI systems covered by Union harmonisation legislation listed in Section B of Annex I in real-world conditions outside AI regulatory sandboxes"
 chapter: "VI — Measures in support of innovation"
 changed_2026: "all"

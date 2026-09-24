@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Art 75b"
+aliases: ["AI Act Art 75b"]
 title: "Commitments"
 chapter: "IX — Post-market monitoring, information sharing and market surveillance"
 section: "3 — Enforcement"

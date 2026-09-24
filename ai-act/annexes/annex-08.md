@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex VIII"
+aliases: ["AI Act Annex VIII"]
 title: "Information to be submitted upon the registration of high-risk AI systems in accordance with Article 49"
 changed_2026: "part"
 tokens: 975

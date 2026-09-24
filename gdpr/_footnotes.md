@@ -1,5 +1,6 @@
 ---
 cite: "GDPR, footnotes"
+aliases: ["GDPR, footnotes"]
 title: "Footnotes (Official Journal references)"
 tokens: 1188
 source: "_sources/gdpr_2016-679.md lines 2227-2267"

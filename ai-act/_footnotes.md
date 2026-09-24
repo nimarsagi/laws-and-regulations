@@ -1,5 +1,6 @@
 ---
 cite: "AI Act, footnotes"
+aliases: ["AI Act, footnotes"]
 title: "Footnotes (Official Journal references)"
 tokens: 1166
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3643-3663"

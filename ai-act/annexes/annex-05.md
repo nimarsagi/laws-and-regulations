@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex V"
+aliases: ["AI Act Annex V"]
 title: "EU declaration of conformity"
 tokens: 367
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3217-3235"

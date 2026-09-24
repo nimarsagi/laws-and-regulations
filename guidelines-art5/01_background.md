@@ -1,5 +1,6 @@
 ---
 cite: "Art 5 Guidelines §1"
+aliases: ["Art 5 Guidelines §1"]
 title: "Background and objectives"
 paras: "1–7"
 tokens: 984

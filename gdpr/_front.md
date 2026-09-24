@@ -1,5 +1,6 @@
 ---
 cite: "GDPR, title page"
+aliases: ["GDPR, title page"]
 title: "Title, legal bases and opening"
 tokens: 272
 source: "_sources/gdpr_2016-679.md lines 1-29"

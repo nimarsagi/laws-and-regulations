@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex IX"
+aliases: ["AI Act Annex IX"]
 title: "Information to be submitted upon the registration of high-risk AI systems listed in Annex III in relation to testing in real world conditions in accordance with Article 60"
 tokens: 233
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3405-3417"

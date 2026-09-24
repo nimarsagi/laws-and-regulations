@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Art 4a"
+aliases: ["AI Act Art 4a"]
 title: "Processing of special categories of personal data for bias detection and correction"
 chapter: "I — General provisions"
 changed_2026: "all"

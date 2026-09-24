@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex IV"
+aliases: ["AI Act Annex IV"]
 title: "Technical documentation referred to in Article 11(1)"
 tokens: 1476
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3161-3213"

@@ -1,5 +1,6 @@
 ---
 cite: "AI Act Annex VI"
+aliases: ["AI Act Annex VI"]
 title: "Conformity assessment procedure based on internal control"
 tokens: 184
 source: "_sources/ai-act_consolidated_2026-07-27.md lines 3239-3247"
