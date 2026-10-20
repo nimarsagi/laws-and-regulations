@@ -3,7 +3,7 @@
 One job: read one PRD, decide which EU rules reach it, and report what it breaks, misses or leaves open. Hand-written; the law files it links to are generated.
 
 ## Inputs
-- Working (this run): the PRD file Nika names — normally a chalky-prd output (sections: Mission, 1 Problem, 2 Constraints, 3 Outputs, 4 Inputs, 5 Steps, 6 Artifact breakdown, 7 Open questions).
+- Working (this run): the PRD file the user names — normally a chalky-prd output (sections: Mission, 1 Problem, 2 Constraints, 3 Outputs, 4 Inputs, 5 Steps, 6 Artifact breakdown, 7 Open questions).
 - Reference (every run): this file, [01_scope-and-roles.md](01_scope-and-roles.md), [timeline.md](timeline.md), [not-covered.md](not-covered.md).
 - Reference (as picked below): the area files the table sends you to, then only the article files those point at.
 
@@ -31,7 +31,7 @@ One job: read one PRD, decide which EU rules reach it, and report what it breaks
 | anything flagged above, to size the risk | [13](13_penalties.md) |
 
 ## Outputs
-A report, written where Nika says — never into this library or into chalky-prd:
+A report, written where the user says — never into this library or into chalky-prd:
 - **Scope** — which laws apply and why, in 2–3 lines, naming the role (provider, deployer, controller, processor).
 - **Findings** — one per issue: PRD section · what it says · the rule (cite as `AI Act Art 26(1)`, `GDPR Art 6(1)(f)`, `GDPR Recital 71`, `Art 5 Guidelines para 243`) · the words of the rule that matter, quoted · what to change. Mark each **breaks**, **missing**, or **decide** (depends on a fact the PRD doesn't give).
 - **Not checked** — anything relevant from [not-covered.md](not-covered.md), one line each.

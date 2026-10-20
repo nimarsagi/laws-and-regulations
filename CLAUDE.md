@@ -1,6 +1,6 @@
 # Laws & Regulations — library for checking PRDs
 
-EU AI Act (as amended in 2026), GDPR, and the Commission's guidelines on AI Act Article 5, split into one file per article, recital, annex or guideline section. Used by Nika only, to check PRDs made with chalky-prd. Not shared with anyone else.
+EU AI Act (as amended in 2026), GDPR, and the Commission's guidelines on AI Act Article 5, split into one file per article, recital, annex or guideline section. Used to check PRDs made with chalky-prd.
 
 ## Where to go
 | Task | Start at |
